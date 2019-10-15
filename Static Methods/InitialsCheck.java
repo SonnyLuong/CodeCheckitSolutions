@@ -8,13 +8,11 @@ public class InitialsCheck
    */
    public static String getInitials(String one, String two, String three)
    {
-
       // your work here
       char x = one.charAt(0);
       char y = two.charAt(0);
       char z = three.charAt(0);
       String ans = x + "" + y + "" + z;
       return ans;
-
    }
 }
