@@ -14,5 +14,6 @@ public class ReplaceCheck
       ans = ans.replace("l", "7");
       ans = ans.replace("o", "0");
       return ans;
+      
    }
 }
